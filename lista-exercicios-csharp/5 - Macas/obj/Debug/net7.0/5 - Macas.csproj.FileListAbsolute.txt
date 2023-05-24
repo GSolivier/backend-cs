@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\exercicios\5 - Macas\bin\Debug\net7.0\5 - Macas.exe
+C:\Users\42634177801\Desktop\exercicios\5 - Macas\bin\Debug\net7.0\5 - Macas.deps.json
+C:\Users\42634177801\Desktop\exercicios\5 - Macas\bin\Debug\net7.0\5 - Macas.runtimeconfig.json
+C:\Users\42634177801\Desktop\exercicios\5 - Macas\bin\Debug\net7.0\5 - Macas.dll
+C:\Users\42634177801\Desktop\exercicios\5 - Macas\bin\Debug\net7.0\5 - Macas.pdb
+C:\Users\42634177801\Desktop\exercicios\5 - Macas\obj\Debug\net7.0\5 - Macas.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\exercicios\5 - Macas\obj\Debug\net7.0\5 - Macas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\exercicios\5 - Macas\obj\Debug\net7.0\5 - Macas.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\exercicios\5 - Macas\obj\Debug\net7.0\5 - Macas.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\exercicios\5 - Macas\obj\Debug\net7.0\5 - Macas.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\exercicios\5 - Macas\obj\Debug\net7.0\5 - Macas.dll
+C:\Users\42634177801\Desktop\exercicios\5 - Macas\obj\Debug\net7.0\refint\5 - Macas.dll
+C:\Users\42634177801\Desktop\exercicios\5 - Macas\obj\Debug\net7.0\5 - Macas.pdb
+C:\Users\42634177801\Desktop\exercicios\5 - Macas\obj\Debug\net7.0\5 - Macas.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\exercicios\5 - Macas\obj\Debug\net7.0\ref\5 - Macas.dll

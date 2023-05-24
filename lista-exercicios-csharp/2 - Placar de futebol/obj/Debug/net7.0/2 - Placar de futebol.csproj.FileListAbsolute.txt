@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\exercicios\2 - Placar de futebol\bin\Debug\net7.0\2 - Placar de futebol.exe
+C:\Users\42634177801\Desktop\exercicios\2 - Placar de futebol\bin\Debug\net7.0\2 - Placar de futebol.deps.json
+C:\Users\42634177801\Desktop\exercicios\2 - Placar de futebol\bin\Debug\net7.0\2 - Placar de futebol.runtimeconfig.json
+C:\Users\42634177801\Desktop\exercicios\2 - Placar de futebol\bin\Debug\net7.0\2 - Placar de futebol.dll
+C:\Users\42634177801\Desktop\exercicios\2 - Placar de futebol\bin\Debug\net7.0\2 - Placar de futebol.pdb
+C:\Users\42634177801\Desktop\exercicios\2 - Placar de futebol\obj\Debug\net7.0\2 - Placar de futebol.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\exercicios\2 - Placar de futebol\obj\Debug\net7.0\2 - Placar de futebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\exercicios\2 - Placar de futebol\obj\Debug\net7.0\2 - Placar de futebol.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\exercicios\2 - Placar de futebol\obj\Debug\net7.0\2 - Placar de futebol.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\exercicios\2 - Placar de futebol\obj\Debug\net7.0\2 - Placar de futebol.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\exercicios\2 - Placar de futebol\obj\Debug\net7.0\2 - Placar de futebol.dll
+C:\Users\42634177801\Desktop\exercicios\2 - Placar de futebol\obj\Debug\net7.0\refint\2 - Placar de futebol.dll
+C:\Users\42634177801\Desktop\exercicios\2 - Placar de futebol\obj\Debug\net7.0\2 - Placar de futebol.pdb
+C:\Users\42634177801\Desktop\exercicios\2 - Placar de futebol\obj\Debug\net7.0\2 - Placar de futebol.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\exercicios\2 - Placar de futebol\obj\Debug\net7.0\ref\2 - Placar de futebol.dll

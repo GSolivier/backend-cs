@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\4 - Assassinato\bin\Debug\net7.0\4 - Assassinato.exe
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\4 - Assassinato\bin\Debug\net7.0\4 - Assassinato.deps.json
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\4 - Assassinato\bin\Debug\net7.0\4 - Assassinato.runtimeconfig.json
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\4 - Assassinato\bin\Debug\net7.0\4 - Assassinato.dll
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\4 - Assassinato\bin\Debug\net7.0\4 - Assassinato.pdb
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\4 - Assassinato\obj\Debug\net7.0\4 - Assassinato.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\4 - Assassinato\obj\Debug\net7.0\4 - Assassinato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\4 - Assassinato\obj\Debug\net7.0\4 - Assassinato.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\4 - Assassinato\obj\Debug\net7.0\4 - Assassinato.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\4 - Assassinato\obj\Debug\net7.0\4 - Assassinato.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\4 - Assassinato\obj\Debug\net7.0\4 - Assassinato.dll
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\4 - Assassinato\obj\Debug\net7.0\refint\4 - Assassinato.dll
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\4 - Assassinato\obj\Debug\net7.0\4 - Assassinato.pdb
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\4 - Assassinato\obj\Debug\net7.0\4 - Assassinato.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\4 - Assassinato\obj\Debug\net7.0\ref\4 - Assassinato.dll

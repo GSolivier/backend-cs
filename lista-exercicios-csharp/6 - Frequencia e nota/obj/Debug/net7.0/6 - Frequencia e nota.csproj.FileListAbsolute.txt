@@ -1,0 +1,30 @@
+D:\ADS - SENAI\lista-exercicios-csharp\6 - Frequencia e nota\bin\Debug\net7.0\6 - Frequencia e nota.exe
+D:\ADS - SENAI\lista-exercicios-csharp\6 - Frequencia e nota\bin\Debug\net7.0\6 - Frequencia e nota.deps.json
+D:\ADS - SENAI\lista-exercicios-csharp\6 - Frequencia e nota\bin\Debug\net7.0\6 - Frequencia e nota.runtimeconfig.json
+D:\ADS - SENAI\lista-exercicios-csharp\6 - Frequencia e nota\bin\Debug\net7.0\6 - Frequencia e nota.dll
+D:\ADS - SENAI\lista-exercicios-csharp\6 - Frequencia e nota\bin\Debug\net7.0\6 - Frequencia e nota.pdb
+D:\ADS - SENAI\lista-exercicios-csharp\6 - Frequencia e nota\obj\Debug\net7.0\6 - Frequencia e nota.csproj.AssemblyReference.cache
+D:\ADS - SENAI\lista-exercicios-csharp\6 - Frequencia e nota\obj\Debug\net7.0\6 - Frequencia e nota.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADS - SENAI\lista-exercicios-csharp\6 - Frequencia e nota\obj\Debug\net7.0\6 - Frequencia e nota.AssemblyInfoInputs.cache
+D:\ADS - SENAI\lista-exercicios-csharp\6 - Frequencia e nota\obj\Debug\net7.0\6 - Frequencia e nota.AssemblyInfo.cs
+D:\ADS - SENAI\lista-exercicios-csharp\6 - Frequencia e nota\obj\Debug\net7.0\6 - Frequencia e nota.csproj.CoreCompileInputs.cache
+D:\ADS - SENAI\lista-exercicios-csharp\6 - Frequencia e nota\obj\Debug\net7.0\6 - Frequencia e nota.dll
+D:\ADS - SENAI\lista-exercicios-csharp\6 - Frequencia e nota\obj\Debug\net7.0\refint\6 - Frequencia e nota.dll
+D:\ADS - SENAI\lista-exercicios-csharp\6 - Frequencia e nota\obj\Debug\net7.0\6 - Frequencia e nota.pdb
+D:\ADS - SENAI\lista-exercicios-csharp\6 - Frequencia e nota\obj\Debug\net7.0\6 - Frequencia e nota.genruntimeconfig.cache
+D:\ADS - SENAI\lista-exercicios-csharp\6 - Frequencia e nota\obj\Debug\net7.0\ref\6 - Frequencia e nota.dll
+C:\Users\42634177801\Desktop\backend\lista-exercicios-csharp\6 - Frequencia e nota\bin\Debug\net7.0\6 - Frequencia e nota.exe
+C:\Users\42634177801\Desktop\backend\lista-exercicios-csharp\6 - Frequencia e nota\bin\Debug\net7.0\6 - Frequencia e nota.deps.json
+C:\Users\42634177801\Desktop\backend\lista-exercicios-csharp\6 - Frequencia e nota\bin\Debug\net7.0\6 - Frequencia e nota.runtimeconfig.json
+C:\Users\42634177801\Desktop\backend\lista-exercicios-csharp\6 - Frequencia e nota\bin\Debug\net7.0\6 - Frequencia e nota.dll
+C:\Users\42634177801\Desktop\backend\lista-exercicios-csharp\6 - Frequencia e nota\bin\Debug\net7.0\6 - Frequencia e nota.pdb
+C:\Users\42634177801\Desktop\backend\lista-exercicios-csharp\6 - Frequencia e nota\obj\Debug\net7.0\6 - Frequencia e nota.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicios-csharp\6 - Frequencia e nota\obj\Debug\net7.0\6 - Frequencia e nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\backend\lista-exercicios-csharp\6 - Frequencia e nota\obj\Debug\net7.0\6 - Frequencia e nota.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicios-csharp\6 - Frequencia e nota\obj\Debug\net7.0\6 - Frequencia e nota.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\backend\lista-exercicios-csharp\6 - Frequencia e nota\obj\Debug\net7.0\6 - Frequencia e nota.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicios-csharp\6 - Frequencia e nota\obj\Debug\net7.0\6 - Frequencia e nota.dll
+C:\Users\42634177801\Desktop\backend\lista-exercicios-csharp\6 - Frequencia e nota\obj\Debug\net7.0\refint\6 - Frequencia e nota.dll
+C:\Users\42634177801\Desktop\backend\lista-exercicios-csharp\6 - Frequencia e nota\obj\Debug\net7.0\6 - Frequencia e nota.pdb
+C:\Users\42634177801\Desktop\backend\lista-exercicios-csharp\6 - Frequencia e nota\obj\Debug\net7.0\6 - Frequencia e nota.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicios-csharp\6 - Frequencia e nota\obj\Debug\net7.0\ref\6 - Frequencia e nota.dll

@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\Pericles\bin\Debug\net7.0\Pericles.exe
+C:\Users\42634177801\Desktop\Pericles\bin\Debug\net7.0\Pericles.deps.json
+C:\Users\42634177801\Desktop\Pericles\bin\Debug\net7.0\Pericles.runtimeconfig.json
+C:\Users\42634177801\Desktop\Pericles\bin\Debug\net7.0\Pericles.dll
+C:\Users\42634177801\Desktop\Pericles\bin\Debug\net7.0\Pericles.pdb
+C:\Users\42634177801\Desktop\Pericles\obj\Debug\net7.0\Pericles.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\Pericles\obj\Debug\net7.0\Pericles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\Pericles\obj\Debug\net7.0\Pericles.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\Pericles\obj\Debug\net7.0\Pericles.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\Pericles\obj\Debug\net7.0\Pericles.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\Pericles\obj\Debug\net7.0\Pericles.dll
+C:\Users\42634177801\Desktop\Pericles\obj\Debug\net7.0\refint\Pericles.dll
+C:\Users\42634177801\Desktop\Pericles\obj\Debug\net7.0\Pericles.pdb
+C:\Users\42634177801\Desktop\Pericles\obj\Debug\net7.0\Pericles.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\Pericles\obj\Debug\net7.0\ref\Pericles.dll

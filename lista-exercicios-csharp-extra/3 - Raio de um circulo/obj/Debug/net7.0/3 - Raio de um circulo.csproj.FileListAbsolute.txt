@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\3 - Raio de um circulo\obj\Debug\net7.0\3 - Raio de um circulo.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\3 - Raio de um circulo\obj\Debug\net7.0\3 - Raio de um circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\3 - Raio de um circulo\obj\Debug\net7.0\3 - Raio de um circulo.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\3 - Raio de um circulo\obj\Debug\net7.0\3 - Raio de um circulo.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\3 - Raio de um circulo\obj\Debug\net7.0\3 - Raio de um circulo.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\3 - Raio de um circulo\bin\Debug\net7.0\3 - Raio de um circulo.exe
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\3 - Raio de um circulo\bin\Debug\net7.0\3 - Raio de um circulo.deps.json
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\3 - Raio de um circulo\bin\Debug\net7.0\3 - Raio de um circulo.runtimeconfig.json
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\3 - Raio de um circulo\bin\Debug\net7.0\3 - Raio de um circulo.dll
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\3 - Raio de um circulo\bin\Debug\net7.0\3 - Raio de um circulo.pdb
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\3 - Raio de um circulo\obj\Debug\net7.0\3 - Raio de um circulo.dll
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\3 - Raio de um circulo\obj\Debug\net7.0\refint\3 - Raio de um circulo.dll
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\3 - Raio de um circulo\obj\Debug\net7.0\3 - Raio de um circulo.pdb
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\3 - Raio de um circulo\obj\Debug\net7.0\3 - Raio de um circulo.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\3 - Raio de um circulo\obj\Debug\net7.0\ref\3 - Raio de um circulo.dll

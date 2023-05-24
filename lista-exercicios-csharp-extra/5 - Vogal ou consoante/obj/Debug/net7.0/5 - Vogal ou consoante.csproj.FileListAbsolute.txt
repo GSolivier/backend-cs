@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\5 - Vogal ou consoante\bin\Debug\net7.0\5 - Vogal ou consoante.exe
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\5 - Vogal ou consoante\bin\Debug\net7.0\5 - Vogal ou consoante.deps.json
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\5 - Vogal ou consoante\bin\Debug\net7.0\5 - Vogal ou consoante.runtimeconfig.json
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\5 - Vogal ou consoante\bin\Debug\net7.0\5 - Vogal ou consoante.dll
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\5 - Vogal ou consoante\bin\Debug\net7.0\5 - Vogal ou consoante.pdb
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\5 - Vogal ou consoante\obj\Debug\net7.0\5 - Vogal ou consoante.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\5 - Vogal ou consoante\obj\Debug\net7.0\5 - Vogal ou consoante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\5 - Vogal ou consoante\obj\Debug\net7.0\5 - Vogal ou consoante.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\5 - Vogal ou consoante\obj\Debug\net7.0\5 - Vogal ou consoante.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\5 - Vogal ou consoante\obj\Debug\net7.0\5 - Vogal ou consoante.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\5 - Vogal ou consoante\obj\Debug\net7.0\5 - Vogal ou consoante.dll
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\5 - Vogal ou consoante\obj\Debug\net7.0\refint\5 - Vogal ou consoante.dll
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\5 - Vogal ou consoante\obj\Debug\net7.0\5 - Vogal ou consoante.pdb
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\5 - Vogal ou consoante\obj\Debug\net7.0\5 - Vogal ou consoante.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\5 - Vogal ou consoante\obj\Debug\net7.0\ref\5 - Vogal ou consoante.dll

@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\exercicios\3 - Medidas de um triangulo\bin\Debug\net7.0\3 - Medidas de um triangulo.exe
+C:\Users\42634177801\Desktop\exercicios\3 - Medidas de um triangulo\bin\Debug\net7.0\3 - Medidas de um triangulo.deps.json
+C:\Users\42634177801\Desktop\exercicios\3 - Medidas de um triangulo\bin\Debug\net7.0\3 - Medidas de um triangulo.runtimeconfig.json
+C:\Users\42634177801\Desktop\exercicios\3 - Medidas de um triangulo\bin\Debug\net7.0\3 - Medidas de um triangulo.dll
+C:\Users\42634177801\Desktop\exercicios\3 - Medidas de um triangulo\bin\Debug\net7.0\3 - Medidas de um triangulo.pdb
+C:\Users\42634177801\Desktop\exercicios\3 - Medidas de um triangulo\obj\Debug\net7.0\3 - Medidas de um triangulo.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\exercicios\3 - Medidas de um triangulo\obj\Debug\net7.0\3 - Medidas de um triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\exercicios\3 - Medidas de um triangulo\obj\Debug\net7.0\3 - Medidas de um triangulo.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\exercicios\3 - Medidas de um triangulo\obj\Debug\net7.0\3 - Medidas de um triangulo.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\exercicios\3 - Medidas de um triangulo\obj\Debug\net7.0\3 - Medidas de um triangulo.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\exercicios\3 - Medidas de um triangulo\obj\Debug\net7.0\3 - Medidas de um triangulo.dll
+C:\Users\42634177801\Desktop\exercicios\3 - Medidas de um triangulo\obj\Debug\net7.0\refint\3 - Medidas de um triangulo.dll
+C:\Users\42634177801\Desktop\exercicios\3 - Medidas de um triangulo\obj\Debug\net7.0\3 - Medidas de um triangulo.pdb
+C:\Users\42634177801\Desktop\exercicios\3 - Medidas de um triangulo\obj\Debug\net7.0\3 - Medidas de um triangulo.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\exercicios\3 - Medidas de um triangulo\obj\Debug\net7.0\ref\3 - Medidas de um triangulo.dll

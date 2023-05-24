@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\1 - Data de aniversário\bin\Debug\net7.0\1 - Data de aniversário.exe
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\1 - Data de aniversário\bin\Debug\net7.0\1 - Data de aniversário.deps.json
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\1 - Data de aniversário\bin\Debug\net7.0\1 - Data de aniversário.runtimeconfig.json
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\1 - Data de aniversário\bin\Debug\net7.0\1 - Data de aniversário.dll
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\1 - Data de aniversário\bin\Debug\net7.0\1 - Data de aniversário.pdb
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\1 - Data de aniversário\obj\Debug\net7.0\1 - Data de aniversário.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\1 - Data de aniversário\obj\Debug\net7.0\1 - Data de aniversário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\1 - Data de aniversário\obj\Debug\net7.0\1 - Data de aniversário.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\1 - Data de aniversário\obj\Debug\net7.0\1 - Data de aniversário.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\1 - Data de aniversário\obj\Debug\net7.0\1 - Data de aniversário.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\1 - Data de aniversário\obj\Debug\net7.0\1 - Data de aniversário.dll
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\1 - Data de aniversário\obj\Debug\net7.0\refint\1 - Data de aniversário.dll
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\1 - Data de aniversário\obj\Debug\net7.0\1 - Data de aniversário.pdb
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\1 - Data de aniversário\obj\Debug\net7.0\1 - Data de aniversário.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\1 - Data de aniversário\obj\Debug\net7.0\ref\1 - Data de aniversário.dll

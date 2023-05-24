@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\backend\interface-obj-parametro\bin\Debug\net7.0\interface-obj-parametro.exe
+C:\Users\42634177801\Desktop\backend\interface-obj-parametro\bin\Debug\net7.0\interface-obj-parametro.deps.json
+C:\Users\42634177801\Desktop\backend\interface-obj-parametro\bin\Debug\net7.0\interface-obj-parametro.runtimeconfig.json
+C:\Users\42634177801\Desktop\backend\interface-obj-parametro\bin\Debug\net7.0\interface-obj-parametro.dll
+C:\Users\42634177801\Desktop\backend\interface-obj-parametro\bin\Debug\net7.0\interface-obj-parametro.pdb
+C:\Users\42634177801\Desktop\backend\interface-obj-parametro\obj\Debug\net7.0\interface-obj-parametro.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\backend\interface-obj-parametro\obj\Debug\net7.0\interface-obj-parametro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\backend\interface-obj-parametro\obj\Debug\net7.0\interface-obj-parametro.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\backend\interface-obj-parametro\obj\Debug\net7.0\interface-obj-parametro.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\backend\interface-obj-parametro\obj\Debug\net7.0\interface-obj-parametro.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\backend\interface-obj-parametro\obj\Debug\net7.0\interface-obj-parametro.dll
+C:\Users\42634177801\Desktop\backend\interface-obj-parametro\obj\Debug\net7.0\refint\interface-obj-parametro.dll
+C:\Users\42634177801\Desktop\backend\interface-obj-parametro\obj\Debug\net7.0\interface-obj-parametro.pdb
+C:\Users\42634177801\Desktop\backend\interface-obj-parametro\obj\Debug\net7.0\interface-obj-parametro.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\backend\interface-obj-parametro\obj\Debug\net7.0\ref\interface-obj-parametro.dll

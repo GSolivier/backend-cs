@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\2 - Menor número\bin\Debug\net7.0\2 - Menor número.exe
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\2 - Menor número\bin\Debug\net7.0\2 - Menor número.deps.json
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\2 - Menor número\bin\Debug\net7.0\2 - Menor número.runtimeconfig.json
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\2 - Menor número\bin\Debug\net7.0\2 - Menor número.dll
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\2 - Menor número\bin\Debug\net7.0\2 - Menor número.pdb
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\2 - Menor número\obj\Debug\net7.0\2 - Menor número.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\2 - Menor número\obj\Debug\net7.0\2 - Menor número.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\2 - Menor número\obj\Debug\net7.0\2 - Menor número.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\2 - Menor número\obj\Debug\net7.0\2 - Menor número.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\2 - Menor número\obj\Debug\net7.0\2 - Menor número.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\2 - Menor número\obj\Debug\net7.0\2 - Menor número.dll
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\2 - Menor número\obj\Debug\net7.0\refint\2 - Menor número.dll
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\2 - Menor número\obj\Debug\net7.0\2 - Menor número.pdb
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\2 - Menor número\obj\Debug\net7.0\2 - Menor número.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\backend\lista-exercicio-csharp-extra\2 - Menor número\obj\Debug\net7.0\ref\2 - Menor número.dll

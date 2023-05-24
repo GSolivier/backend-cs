@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\exercicios\4 - Verificador de senha\bin\Debug\net7.0\4 - Verificador de senha.exe
+C:\Users\42634177801\Desktop\exercicios\4 - Verificador de senha\bin\Debug\net7.0\4 - Verificador de senha.deps.json
+C:\Users\42634177801\Desktop\exercicios\4 - Verificador de senha\bin\Debug\net7.0\4 - Verificador de senha.runtimeconfig.json
+C:\Users\42634177801\Desktop\exercicios\4 - Verificador de senha\bin\Debug\net7.0\4 - Verificador de senha.dll
+C:\Users\42634177801\Desktop\exercicios\4 - Verificador de senha\bin\Debug\net7.0\4 - Verificador de senha.pdb
+C:\Users\42634177801\Desktop\exercicios\4 - Verificador de senha\obj\Debug\net7.0\4 - Verificador de senha.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\exercicios\4 - Verificador de senha\obj\Debug\net7.0\4 - Verificador de senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\exercicios\4 - Verificador de senha\obj\Debug\net7.0\4 - Verificador de senha.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\exercicios\4 - Verificador de senha\obj\Debug\net7.0\4 - Verificador de senha.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\exercicios\4 - Verificador de senha\obj\Debug\net7.0\4 - Verificador de senha.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\exercicios\4 - Verificador de senha\obj\Debug\net7.0\4 - Verificador de senha.dll
+C:\Users\42634177801\Desktop\exercicios\4 - Verificador de senha\obj\Debug\net7.0\refint\4 - Verificador de senha.dll
+C:\Users\42634177801\Desktop\exercicios\4 - Verificador de senha\obj\Debug\net7.0\4 - Verificador de senha.pdb
+C:\Users\42634177801\Desktop\exercicios\4 - Verificador de senha\obj\Debug\net7.0\4 - Verificador de senha.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\exercicios\4 - Verificador de senha\obj\Debug\net7.0\ref\4 - Verificador de senha.dll

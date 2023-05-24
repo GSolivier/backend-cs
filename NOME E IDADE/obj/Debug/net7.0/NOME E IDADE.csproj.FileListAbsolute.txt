@@ -1,0 +1,15 @@
+C:\Users\42634177801\Desktop\NOME E IDADE\bin\Debug\net7.0\NOME E IDADE.exe
+C:\Users\42634177801\Desktop\NOME E IDADE\bin\Debug\net7.0\NOME E IDADE.deps.json
+C:\Users\42634177801\Desktop\NOME E IDADE\bin\Debug\net7.0\NOME E IDADE.runtimeconfig.json
+C:\Users\42634177801\Desktop\NOME E IDADE\bin\Debug\net7.0\NOME E IDADE.dll
+C:\Users\42634177801\Desktop\NOME E IDADE\bin\Debug\net7.0\NOME E IDADE.pdb
+C:\Users\42634177801\Desktop\NOME E IDADE\obj\Debug\net7.0\NOME E IDADE.csproj.AssemblyReference.cache
+C:\Users\42634177801\Desktop\NOME E IDADE\obj\Debug\net7.0\NOME E IDADE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42634177801\Desktop\NOME E IDADE\obj\Debug\net7.0\NOME E IDADE.AssemblyInfoInputs.cache
+C:\Users\42634177801\Desktop\NOME E IDADE\obj\Debug\net7.0\NOME E IDADE.AssemblyInfo.cs
+C:\Users\42634177801\Desktop\NOME E IDADE\obj\Debug\net7.0\NOME E IDADE.csproj.CoreCompileInputs.cache
+C:\Users\42634177801\Desktop\NOME E IDADE\obj\Debug\net7.0\NOME E IDADE.dll
+C:\Users\42634177801\Desktop\NOME E IDADE\obj\Debug\net7.0\refint\NOME E IDADE.dll
+C:\Users\42634177801\Desktop\NOME E IDADE\obj\Debug\net7.0\NOME E IDADE.pdb
+C:\Users\42634177801\Desktop\NOME E IDADE\obj\Debug\net7.0\NOME E IDADE.genruntimeconfig.cache
+C:\Users\42634177801\Desktop\NOME E IDADE\obj\Debug\net7.0\ref\NOME E IDADE.dll
